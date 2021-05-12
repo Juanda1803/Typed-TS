@@ -1,0 +1,27 @@
+{
+    "name": "typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "tsc --watch",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Juangr1803/Typed-TS.git"
+    },
+    "keywords": [],
+    "author": "Juan Gonzalez <j3045771061@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Juangr1803/Typed-TS/issues"
+    },
+    "homepage": "https://github.com/Juangr1803/Typed-TS#readme",
+    "devDependencies": {
+        "ts-loader": "^8.0.18",
+        "typescript": "^4.2.3",
+        "webpack": "^4.46.0",
+        "webpack-cli": "^4.5.0"
+    }
+}
